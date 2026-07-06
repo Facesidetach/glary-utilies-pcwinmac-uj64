@@ -1,4 +1,4 @@
-# 
+# Lightweight Glary Utilities extensions for Mac OS | Smart Glary Utilities extensions for PC Windows. Featuring memory optimization and batch processing — optimized for maximum performance on every platform.
 
 
 
